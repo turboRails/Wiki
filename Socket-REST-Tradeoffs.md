@@ -1,9 +1,5 @@
-# Wiki
-My memos &amp; wiki
 
-
-
-### Typical chat tutorial archcitecture
+### Typical chat tutorial architecture
 
 ```mermaid
 sequenceDiagram
